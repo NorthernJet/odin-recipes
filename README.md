@@ -1,0 +1,1 @@
+This project will allow me to create a website based on recipes. I will be creating a main index page with a few links to recipes. Upon finishing this project, I will be more confident in my HTML abilities. 
