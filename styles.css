@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+    font-size: larger;
+}
 .description {
     background-color: lightsalmon;
     text-align: center;
@@ -25,4 +29,6 @@ h1 {
     margin-right: auto;
     display: block;
 }
+
+
 
