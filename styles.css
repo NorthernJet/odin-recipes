@@ -1,5 +1,28 @@
 h1 {
-    color: aquamarine;
-    background-color: rgb(209, 147, 147);
+    color: rgb(116, 197, 170);
+    background-color: rgb(126, 86, 86);
     text-align: center;
 }
+
+.description {
+    background-color: lightsalmon;
+    text-align: center;
+    font-size: larger;
+}
+
+.linkdescription {
+    background-color: rgb(0, 200, 94);
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+* img {
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
